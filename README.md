@@ -1,6 +1,6 @@
 # PDF Font Removal Script
 
-A simple Bash script to batch-remove embedded fonts from PDF files using Ghostscript.
+A simple Bash script to batch-remove embedded fonts from PDF files using Ghostscript. Example usage: remove type-3 fonts when preparing a camera-ready version for your paper.
 
 ## What It Does
 
